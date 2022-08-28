@@ -104,6 +104,21 @@
             "tags": ["tailwind", "css", "ui"],
             "likes": 0,
             "unlikes": 0
+        },
+        {
+            "id": 8,
+            "title": "Don't Buy Scanner! Build your own smart scanner",
+            "description": "Your wallet reminds you of the Sahara desert? But you need to scan documents right? This video is your saviour! ",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "June 17, 2022",
+            "duration": "07:12",
+            "views": "2.5k",
+            "link": "https://www.youtube-nocookie.com/embed/MAwOPyOztDs",
+            "thumbnail": "https://i3.ytimg.com/vi/MAwOPyOztDs/maxresdefault.jpg",
+            "tags": ["scanner", "programming"],
+            "likes": 0,
+            "unlikes": 0
         }
     ],
     "tags": [
