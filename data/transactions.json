@@ -10,5 +10,101 @@
         "name": "Family Expenses",
         "type": "expense",
         "amount": 200000
+    },
+    {
+        "id": 3,
+        "name": "Food Expenses",
+        "type": "expense",
+        "amount": 2000
+    },
+    {
+        "id": 4,
+        "name": "Movie Expenses",
+        "type": "expense",
+        "amount": 4500
+    },
+    {
+        "id": 5,
+        "name": "Salary from Twitter",
+        "type": "income",
+        "amount": 2000
+    },
+    {
+        "id": 6,
+        "name": "Salary from Github",
+        "type": "income",
+        "amount": 3500
+    },
+    {
+        "id": 7,
+        "name": "Car Cost",
+        "type": "expense",
+        "amount": 200
+    },
+    {
+        "id": 8,
+        "name": "Rent",
+        "type": "expense",
+        "amount": 900
+    },
+    {
+        "id": 9,
+        "name": "Family Expenses",
+        "type": "expense",
+        "amount": 2000
+    },
+    {
+        "id": 10,
+        "name": "Medical Expenses",
+        "type": "expense",
+        "amount": 9950
+    },
+    {
+        "id": 11,
+        "name": "Business Profit",
+        "type": "income",
+        "amount": 45000
+    },
+    {
+        "id": 12,
+        "name": "Food Cost",
+        "type": "expense",
+        "amount": 200000
+    },
+    {
+        "id": 13,
+        "name": "Income From Business",
+        "type": "income",
+        "amount": 14000
+    },
+    {
+        "id": 14,
+        "name": "Family Medical",
+        "type": "expense",
+        "amount": 5600
+    },
+    {
+        "id": 15,
+        "name": "Income From Business",
+        "type": "income",
+        "amount": 200000
+    },
+    {
+        "id": 16,
+        "name": "Rent Cost",
+        "type": "expense",
+        "amount": 500
+    },
+    {
+        "id": 17,
+        "name": "Tour Cost",
+        "type": "expense",
+        "amount": 3000
+    },
+    {
+        "id": 18,
+        "name": "Family Expenses",
+        "type": "expense",
+        "amount": 200000
     }
 ]
